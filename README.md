@@ -2,6 +2,7 @@
 
 
 **`Frontend Developper **
+
 I'm an innovative and proactive french autodidact Frontend developer able to develop websites as well as applications with elegant and innovative concepts.  All my coding projects are built from the ground up, from planning and designing. I've learnt everything I know from the <a href='https://www.theodinproject.com/'>The Odin Project</a> and different courses i've followed.
 
 
