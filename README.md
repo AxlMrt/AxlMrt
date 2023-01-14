@@ -20,7 +20,7 @@
 
 <div class="content-title" align="center">
   <h1>Axel Martin</h1>
-  <h2>Frontend Developper</h2>
+  <h2>FullStack JavaScript Developper</h2>
 </div>
 
 <div class="content-details" align="center">
