@@ -24,7 +24,7 @@
 </div>
 
 <div class="content-details" align="center">
-  I'm an innovative and proactive french autodidact FullStack developer able to develop websites as well as applications with elegant and innovative concepts.  All my coding projects are built from the ground up, from planning and designing. I've learnt everything I know from the <a  href='https://www.theodinproject.com/'>The Odin Project</a> and different courses i've followed.
+  I'm an innovative and proactive french autodidact FullStack developer able to develop websites as well as applications with elegant and innovative concepts.  All my coding projects are built from the ground up, from planning and designing. Passionate about IT, I decided to acquire good practices in development with Javascript programming, ReactJS and ExpressJS (mongoDB) and website creation in HTML / CSS. I've learnt everything I know from the <a  href='https://www.theodinproject.com/'>The Odin Project</a> and different courses i've followed.
 </div>
 
 <div class="tools" align="center">
